@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1522187782 source:c:\test\ghbecerra\genericas\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1522187784 source:c:\test\genericas\main.c
+	<stdio.h>
+	<stdlib.h>
+

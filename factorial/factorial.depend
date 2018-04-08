@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1522791632 source:c:\test\ghbecerra\factorial\main.c
+	<stdio.h>
+	<stdlib.h>
+

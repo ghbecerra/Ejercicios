@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1522784712 source:c:\test\ghbecerra\genericas_con_bilioteca\main.c
+	<stdio.h>
+	<conio.h>
+	"funciones.h"
+
+1522784712 c:\test\ghbecerra\genericas_con_bilioteca\funciones.h
+

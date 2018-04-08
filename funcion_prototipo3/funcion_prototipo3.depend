@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1522184570 source:c:\test\ghbecerra\funcion_prototipo3\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1522184572 source:c:\test\funcion_prototipo3\main.c
+	<stdio.h>
+	<stdlib.h>
+
