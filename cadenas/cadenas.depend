@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1523398480 source:c:\test\ghbecerra\cadenas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

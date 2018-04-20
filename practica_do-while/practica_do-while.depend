@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1522038423 source:c:\utn\practica_do-while\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1522038423 source:c:\test\practica_do-while\main.c
+	<stdio.h>
+	<stdlib.h>
+

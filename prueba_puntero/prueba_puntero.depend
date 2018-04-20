@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1524002802 source:c:\test\ghbecerra\prueba_puntero\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1524002804 source:c:\test\prueba_puntero\main.c
+	<stdio.h>
+	<stdlib.h>
+
