@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1523653104 source:c:\test\vectores_promedios\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
