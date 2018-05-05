@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1523394578 source:c:\test\ghbecerra\vectores_buscar_maximo\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1524253136 source:c:\test\vectores_buscar_maximo\main.c
+	<stdio.h>
+	<stdlib.h>
+

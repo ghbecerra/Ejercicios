@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1525475010 source:c:\test\vectores_paralelos_abm\funciones.c
+	<stdio.h>
+	"funciones.h"
+	<string.h>
+
+1525474993 c:\test\vectores_paralelos_abm\funciones.h
+
+1525475026 source:c:\test\vectores_paralelos_abm\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"funciones.h"
+

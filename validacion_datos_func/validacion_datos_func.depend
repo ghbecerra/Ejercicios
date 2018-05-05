@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1525470040 source:c:\test\validacion_datos_func\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1525470052 source:c:\test\validacion_datos_func\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"funciones.h"
+
+1525470722 c:\test\validacion_datos_func\funciones.h
+
