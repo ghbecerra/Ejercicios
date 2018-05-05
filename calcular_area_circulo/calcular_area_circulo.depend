@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1525497643 source:c:\test\calcular_area_circulo\funciones.c
+
+1525497710 source:c:\test\calcular_area_circulo\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1525497643 c:\test\calcular_area_circulo\funciones.h
+
