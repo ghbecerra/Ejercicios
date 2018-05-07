@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1525708780 source:c:\test\fun_suma_array10elementos\main.c
+	<stdio.h>
+	<stdlib.h>
+
