@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1525703997 source:c:\test\parcial\funciones.c
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	"funciones.h"
+	<string.h>
+
+1525702753 c:\test\parcial\funciones.h
+
+1525703684 source:c:\test\parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1525834376 source:c:\test\1parcial-master\parcial\funciones.c
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	"funciones.h"
+	<string.h>
+
+1525834376 c:\test\1parcial-master\parcial\funciones.h
+
+1525834376 source:c:\test\1parcial-master\parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1526048126 source:c:\test\parcial_brino\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1526048126 c:\test\parcial_brino\funciones.h
+
+1526045616 source:c:\test\parcial_brino\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"funciones.h"
+
+1526048382 source:c:\test\ejemplo_pp\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"funciones.h"
+
+1526048126 c:\test\ejemplo_pp\funciones.h
+
+1526048126 source:c:\test\ejemplo_pp\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
