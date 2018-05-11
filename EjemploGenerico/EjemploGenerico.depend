@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1524861917 source:c:\test\scarafilo\ejemplogenerico\estructuragenerica.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"EstructuraGenerica.h"
+
+1524860804 c:\test\scarafilo\ejemplogenerico\estructuragenerica.h
+
+1524861554 source:c:\test\scarafilo\ejemplogenerico\main.c
+	<stdio.h>
+	<stdlib.h>
+	"EstructuraGenerica.h"
+
+1524865173 source:c:\test\ghbecerra\amb-estructuragenerica\main.c
+	<stdio.h>
+	<stdlib.h>
+	"EstructuraGenerica.h"
+
+1524865173 c:\test\ghbecerra\amb-estructuragenerica\estructuragenerica.h
+
+1526011913 source:c:\test\amb-estructuragenerica\main.c
+	<stdio.h>
+	<stdlib.h>
+	"EstructuraGenerica.h"
+
+1526012109 c:\test\amb-estructuragenerica\estructuragenerica.h
+
+1526012390 source:c:\test\amb-estructuragenerica\estructuragenerica.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"EstructuraGenerica.h"
+
